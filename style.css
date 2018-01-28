@@ -1,0 +1,57 @@
+/*
+Design by Marco Puccini
+*/
+
+
+div {
+	text-align: justify;
+	text-justify: inter-word;
+}
+body {
+	margin: 1px 500px 15px 50px;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 26px;
+}
+h1 {
+	font-size: 20px;
+	color: darkgreen;
+}
+h2 {
+	font-size: 18px;
+	color: darkgreen;
+}
+h3 {
+	font-size: 15px;
+	color: darkgreen;
+}
+hr {
+	border: 0;
+	color: darkgreen;
+	background-color:darkgreen;
+	height: 1px;
+}
+a:link {
+	text-decoration: none;
+	color: darkgreen;
+}
+a:hover {
+	text-decoration: underline;
+	color: black;
+}
+a:visited, a:active {
+	text-decoration: underline;
+	color: red;
+}
+b {
+	font-size: 13px;
+}
+table {
+	border-width: 1px;
+	border-style: solid;
+}
+code {
+	font-family: Courier New;
+	font-size: 13px
+}

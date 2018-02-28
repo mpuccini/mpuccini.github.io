@@ -8,6 +8,7 @@ div {
 	text-justify: inter-word;
 }
 body {
+	max-width: 90%;
 	padding: 0;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;

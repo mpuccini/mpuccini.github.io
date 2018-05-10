@@ -14,9 +14,9 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	line-height: 26px;
-	background-image: url("img/sines.png");
+	background-image: url("img/surface.png");
 	background-repeat: no-repeat;
-    	background-position: right bottom;
+    	background-position: right top;
 }
 h1 {
 	font-size: 20px;

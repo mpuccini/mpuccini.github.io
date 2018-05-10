@@ -15,8 +15,8 @@ body {
 	font-size: 13px;
 	line-height: 26px;
 	background-image: url("img/sines.png");
-    background-repeat: no-repeat;
-    background-position: right top;
+	background-repeat: no-repeat;
+    	background-position: right bottom;
 }
 h1 {
 	font-size: 20px;

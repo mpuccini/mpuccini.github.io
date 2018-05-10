@@ -16,7 +16,8 @@ body {
 	line-height: 26px;
 	background-image: url("img/surface.png");
 	background-repeat: no-repeat;
-    	background-position: right top;
+    	background-position: right center;
+	background-attachment: fixed;
 }
 h1 {
 	font-size: 20px;

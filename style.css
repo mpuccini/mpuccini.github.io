@@ -3,9 +3,13 @@ Design by Marco Puccini
 */
 
 
-div {
+div.a {
 	text-align: justify;
 	text-justify: inter-word;
+}
+div.b {
+	text-align: justify;
+	margin-left: 50px;
 }
 body {
 	max-width: 90%;

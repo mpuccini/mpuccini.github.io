@@ -12,11 +12,11 @@ div.b {
 	margin-left: 50px;
 }
 body {
-	max-width: 90%;
+	max-width: 70%;
 	margin: auto;
 	padding: 0;
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 13px;
+	font-size: 16px;
 	line-height: 26px;
 	background-image: url("img/surface.png");
     	background-position: right center;

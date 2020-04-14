@@ -12,7 +12,7 @@ div.b {
 	margin-left: 50px;
 }
 body {
-	max-width: 50%;
+	/*x-width: 50%;*/
 	margin: auto;
 	padding-right: 20%;
 	/*font-family: Helvetica, Arial, sans-serif;*/
@@ -56,7 +56,7 @@ a:visited, a:active {
 }
 
 b {
-	font-size: 13px;
+	font-size: 10px;
 }
 table {
 	border-width: 1px;
@@ -64,5 +64,5 @@ table {
 }
 code {
 	font-family: Courier New;
-	font-size: 13px
+	font-size: 10px
 }

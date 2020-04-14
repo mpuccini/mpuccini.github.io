@@ -2,7 +2,13 @@
 Design by Marco Puccini
 */
 
-
+@charset "utf-8";
+@media only screen and (min-width:992px) and (max-width:1199px) {body{font-size:14pt;}}
+@media only screen and (min-width:768px) and (max-width:991px) {body{font-size:14pt;}}
+@media only screen and (min-width:480px) and (max-width:767px) {body{font-size:11pt;}}
+@media only screen and (max-width:479px) {body{font-size:8pt;}}
+@media only screen and (min-device-width :375px) and (max-device-width :667px) {body{font-size:9.5pt;}}
+@media only screen and (min-device-width:1200px) {body{font-size:10pt;}}
 div.a {
 	text-align: justify;
 	text-justify: inter-word;
@@ -17,7 +23,7 @@ body {
 	padding-right: 20%;
 	/*font-family: Helvetica, Arial, sans-serif;*/
 	font-family: monospace,"Courier New",Courier;
-	font-size: 10px;
+	/*font-size: 10px;*/
 	line-height: 16px;
     	background-position: right center;
 	background-repeat: no-repeat;

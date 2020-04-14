@@ -18,7 +18,7 @@ div.b {
 	margin-left: 50px;
 }
 body {
-	/*x-width: 50%;*/
+	max-width:72em;
 	margin: auto;
 	padding-right: 20%;
 	/*font-family: Helvetica, Arial, sans-serif;*/

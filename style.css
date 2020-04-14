@@ -12,14 +12,13 @@ div.b {
 	margin-left: 50px;
 }
 body {
-	max-width: 70%;
+	max-width: 50%;
 	margin: auto;
-	padding-right: 10%;
+	padding-right: 20%;
 	/*font-family: Helvetica, Arial, sans-serif;*/
 	font-family: monospace,"Courier New",Courier;
 	font-size: 10px;
 	line-height: 16px;
-	background-image: url("img/surface.png");
     	background-position: right center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;

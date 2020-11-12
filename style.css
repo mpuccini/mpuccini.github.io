@@ -56,10 +56,7 @@ a:hover {
 	text-decoration: underline;
 	color: darkred;
 }
-a:visited, a:active {
-	text-decoration: underline;
-	color: Teal;
-}
+
 
 table {
 	border-width: 1px;

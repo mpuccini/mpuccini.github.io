@@ -60,6 +60,10 @@ a:visited {
 	text-decoration: underline;
 	color: Teal;
 }
+a:active {
+	text-decoration: underline;
+	color: darkred;
+}
 table {
 	border-width: 1px;
 	border-style: solid;
